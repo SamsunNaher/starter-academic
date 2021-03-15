@@ -1,39 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Samsun Naher
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of New Nexico
+  url: https://econ.unm.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include public economics, health economics, and environmental economics.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Public Economics
+- Health Economics
+- Environmental Economics
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Economics
+    institution: University of New Mexico
+    year: Expected May 2022
+  - course: M.A. in Economics
+    institution: University of New Mexico
+    year: December 2019
+  - course: M.S.S in Economics
+    institution: Islamic University
+    year: July 2014
+    - course: B.S.S in Economics 
+    institution: Islamic University
+    year: June 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
